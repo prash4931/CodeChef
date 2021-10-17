@@ -24,6 +24,5 @@ class Codechef
 		        count++;
 		}
 		System.out.println(count);
-		
 	}
 }
